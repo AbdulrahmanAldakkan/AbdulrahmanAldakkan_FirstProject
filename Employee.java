@@ -44,6 +44,7 @@ public class Employee {
 	}
 
 	public void displayEmployeeInfo() {
+		System.out.println("Staff info : ")
 		System.out.println("Employee Id: " + empId);
 		System.out.println("Employee Name: " + name);
 		System.out.println("Employee Gender: " + gender);
